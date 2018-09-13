@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578510982034",
+    "firebase_url": "https://auth-5c539.firebaseio.com",
+    "project_id": "auth-5c539",
+    "storage_bucket": "auth-5c539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578510982034:android:6f3a1c97f0053f3c",
+        "android_client_info": {
+          "package_name": "com.example.towhid.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578510982034-p2cq9kl7asvi03o0s8t2sijks3oqhp1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.towhid.auth",
+            "certificate_hash": "782ec2cb6472e9709ce806a719be5be80a2c6691"
+          }
+        },
+        {
+          "client_id": "578510982034-v3v6l46v086f3qgjo17u7gn8pqha9fud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbMsVKcLeCznQdHQTtDGU_kRsNirV7_mc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578510982034-v3v6l46v086f3qgjo17u7gn8pqha9fud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
